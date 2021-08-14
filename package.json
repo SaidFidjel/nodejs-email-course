@@ -4,8 +4,11 @@
   "description": "Cours par email pour apprendre NodeJS",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "author": "Rayed Benbrahim",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
 }
