@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-email-course",
+  "version": "1.0.0",
+  "description": "Cours par email pour apprendre NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Rayed Benbrahim",
+  "license": "ISC"
+}
